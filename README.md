@@ -2,7 +2,7 @@
    Lox.cpp
   <br>
   
- ## C++ implementation of [Lox](https://github.com/munificent/craftinginterpreters) language Roslyn inspired.  
+ ## C++ implementation of [Lox](https://github.com/munificent/craftinginterpreters)
 </h1>
 
 
