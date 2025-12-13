@@ -10,7 +10,3 @@ I'm reading [Crafting Interpreters book](http://craftinginterpreters.com/) by
 Bob Nystrom.
 
 
-- [ ]  Chapter 1
-- [ ]  Chapter 2
-
-
